@@ -6,6 +6,7 @@ This GitHub repository is composed of **code and data**.
 ## Getting Started
 To run the codes, you need **Python** or **MATLAB**.
 For data collection, use **Arduino** or any equivalent MCU.
+
 All code is compatible with Linux, macOS, and Windows.
 
 Data can be viewed with any program that supports the **.csv** format.
