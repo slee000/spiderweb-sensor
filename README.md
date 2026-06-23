@@ -3,7 +3,7 @@ This GitHub repository is composed of **codes and data**.
 
 <!-- Getting Started -->
 ## Getting Started
-To run the codes, you need **Python**(tested on 3.14) or **MATLAB**(tested on 2025a and 2026a).
+To run the codes, you need **Python**(tested on 3.14) or **MATLAB**(tested on 2025a and 2026a). (Installation time: 30-60 minutes each.)
 For data collection, use **Arduino** or any equivalent MCU.
 
 All code is compatible with Linux, macOS, and Windows.
@@ -39,7 +39,7 @@ See the **`Codes`** folder.
 
 - **Execution**:
   - Run `Train_.py` to train the model and save it.
-  - Run `Test_.py` to perform estimation and evaluation.
+  - Run `Test_.py` to perform estimation and evaluation. (Output: .csv file. Runtime: 10-20 minutes.)
 
 ---
 
