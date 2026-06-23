@@ -1,8 +1,17 @@
-# spiderweb-sensor
+<!-- Title -->
+<!-- # Title -->
+This GitHub repository is composed of **code and data**.
 
 <!-- GETTING STARTED -->
 ## Getting Started
+To run the codes, you need **Python** or **MATLAB**.
+For data collection, use **Arduino** or any equivalent MCU.
+All code is compatible with Linux, macOS, and Windows.
 
+Data can be viewed with any program that supports the **.csv** format.
+
+---
+---
 
 <!-- Codes -->
 ## Codes
@@ -26,11 +35,11 @@ See the **`Codes`** folder.
   - [PyTorch](https://pytorch.org/) (Python)
   - [NumPy](https://numpy.org/) (Python)
   - [Matplotlib](https://matplotlib.org/) (Python, for visualization)
-  - **Optional**: CUDA (for NVIDIA GPU acceleration)
+  - Optional: CUDA (for NVIDIA GPU acceleration)
 
 - **Execution**:
-  Run `Train_.py` to train the model and save it.
-  Run `Test_.py` to perform estimation and evaluation.
+  - Run `Train_.py` to train the model and save it.
+  - Run `Test_.py` to perform estimation and evaluation.
 
 ---
 
@@ -44,11 +53,20 @@ See the **`Codes`** folder.
   - [Pandas](https://pandas.pydata.org/) (Python)
 
 - **Execution**:
-  - For **2D reduction**: Run `tSNE_2D.py`
-  - For **3D reduction**: Run `tSNE_3D.py`
+  - For 2D reduction: Run `tSNE_2D.py`
+  - For 3D reduction: Run `tSNE_3D.py`
 
 ---
 
 ### 1.4 Uniqueness Analysis
 - **Location**: `Analysis - Uniqueness analysis` folder
 - **Dependency**: MATLAB
+
+---
+---
+
+## Data
+See the **`Data`** folder.
+
+Detailed information is available through folder names and data file names. **`Train`** is for training, and **`Test`** is for evaluation.
+---
