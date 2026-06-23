@@ -3,7 +3,7 @@ This GitHub repository is composed of **codes and data**.
 
 <!-- Getting Started -->
 ## Getting Started
-To run the codes, you need **Python** or **MATLAB**.
+To run the codes, you need **Python**(tested on 3.14) or **MATLAB**(tested on 2025a and 2026a).
 For data collection, use **Arduino** or any equivalent MCU.
 
 All code is compatible with Linux, macOS, and Windows.
@@ -32,10 +32,10 @@ See the **`Codes`** folder.
   
 - **Dependencies**:
   - Python
-  - [PyTorch](https://pytorch.org/) (Python)
-  - [NumPy](https://numpy.org/) (Python)
-  - [Matplotlib](https://matplotlib.org/) (Python, for visualization)
-  - Optional: CUDA (for NVIDIA GPU acceleration)
+  - [PyTorch](https://pytorch.org/) (Python, tested on 2.9.0)
+  - [NumPy](https://numpy.org/) (Python, tested on 2.3.4)
+  - [Matplotlib](https://matplotlib.org/) (Python, tested on 3.10.7, for visualization)
+  - Optional: CUDA (tested on 13.0, for NVIDIA GPU acceleration)
 
 - **Execution**:
   - Run `Train_.py` to train the model and save it.
@@ -48,9 +48,9 @@ See the **`Codes`** folder.
 
 - **Dependencies**:
   - Python
-  - [NumPy](https://numpy.org/) (Python)
-  - [Scikit-learn](https://scikit-learn.org/) (Python)
-  - [Pandas](https://pandas.pydata.org/) (Python)
+  - [NumPy](https://numpy.org/) (Python, tested on 2.9.0)
+  - [Scikit-learn](https://scikit-learn.org/) (Python, tested on 1.8.0)
+  - [Pandas](https://pandas.pydata.org/) (Python, tested on 3.0.3)
 
 - **Execution**:
   - For 2D reduction: Run `tSNE_2D.py`
