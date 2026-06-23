@@ -1,5 +1,5 @@
 
-This GitHub repository is composed of **code and data**.
+This GitHub repository is composed of **codes and data**.
 
 <!-- Getting Started -->
 ## Getting Started
