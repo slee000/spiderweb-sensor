@@ -1,8 +1,6 @@
-<!-- Title -->
-<!-- # Title -->
+
 This GitHub repository is composed of **code and data**.
 
-<!-- GETTING STARTED -->
 ## Getting Started
 To run the codes, you need **Python** or **MATLAB**.
 For data collection, use **Arduino** or any equivalent MCU.
@@ -70,4 +68,5 @@ See the **`Codes`** folder.
 See the **`Data`** folder.
 
 Detailed information is available through folder names and data file names. **`Train`** is for training, and **`Test`** is for evaluation.
+
 ---
