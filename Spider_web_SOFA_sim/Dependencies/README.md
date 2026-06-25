@@ -91,7 +91,7 @@ Edit the following file:
 C:\SOFA\bin\plugin_list.conf
 ```
 
-Add this line:
+Add this line to end of the file:
 
 ```
 SofaPython3 NO_VERSION
