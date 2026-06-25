@@ -54,9 +54,10 @@ Performs sensitivity analysis.
 #### `web_optimization_analysis.m`
 Runs optimization experiments.
 
-- Uses `random_web.m` and `mesh_import.m`
-- Supports multiple study configurations
-- Implements Genetic Algorithm optimization (set `opt_type = 'ga'`)
+- Utilizes `random_web.m` and `mesh_import.m`
+- Supports a range of configurable study scenarios
+- Implements multiple optimization strategies and their combinations (controlled via `opt_type`)
+- Enables post-processing of optimization results reported in the associated publication by setting `opt_type = 'none'` and selecting the desired study using `sample_results`
 
 Key features:
 - 5-DoF optimization on seed web geometry
