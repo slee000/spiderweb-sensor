@@ -10,6 +10,8 @@ All code is compatible with Linux, macOS, and Windows.
 
 Data can be viewed with any program that supports the **.csv** format.
 
+The 'README.md' for **`Simulation`** is in the its folder
+
 ---
 ---
 
