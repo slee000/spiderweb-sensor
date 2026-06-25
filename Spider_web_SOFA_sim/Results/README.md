@@ -74,8 +74,7 @@ The `Results` folder contains:
 
 ## ▶️ Running SOFA Simulation Examples
 
-Example SOFA scenes are located in:
-- `SOFA_example`
+Example SOFA scenes are located in subfolders in:
 - `Studies`
 
 ### Steps to Run
